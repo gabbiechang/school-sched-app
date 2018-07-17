@@ -13,7 +13,7 @@
         <!--Add a Class-->
         <scene sceneID="snT-py-3hH">
             <objects>
-                <viewController storyboardIdentifier="DataViewController" id="S4R-Ja-viH" customClass="DataViewController" customModule="sced_app" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="DataViewController" id="S4R-Ja-viH" customClass="AddClassController" customModule="sced_app" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="ZwX-cT-FIQ">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>

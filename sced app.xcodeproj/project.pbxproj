@@ -9,37 +9,31 @@
 /* Begin PBXBuildFile section */
 		45EC8BF220FD329C0078CF9E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45EC8BF120FD329C0078CF9E /* AppDelegate.swift */; };
 		45EC8BF420FD329C0078CF9E /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45EC8BF320FD329C0078CF9E /* RootViewController.swift */; };
-		45EC8BF620FD329C0078CF9E /* DataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45EC8BF520FD329C0078CF9E /* DataViewController.swift */; };
+		45EC8BF620FD329C0078CF9E /* AddClassController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45EC8BF520FD329C0078CF9E /* AddClassController.swift */; };
 		45EC8BF820FD329C0078CF9E /* ModelController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45EC8BF720FD329C0078CF9E /* ModelController.swift */; };
 		45EC8BFB20FD329C0078CF9E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45EC8BF920FD329C0078CF9E /* Main.storyboard */; };
 		45EC8BFD20FD329E0078CF9E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45EC8BFC20FD329E0078CF9E /* Assets.xcassets */; };
 		45EC8C0020FD329E0078CF9E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45EC8BFE20FD329E0078CF9E /* LaunchScreen.storyboard */; };
-<<<<<<< HEAD
-=======
 		84750D9920FD46740067C1E3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84750D9820FD46740067C1E3 /* GoogleService-Info.plist */; };
-		84750D9D20FE6B000067C1E3 /* addclass.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84750D9C20FE6B000067C1E3 /* addclass.storyboard */; };
+		84750D9D20FE6B000067C1E3 /* AddClass.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84750D9C20FE6B000067C1E3 /* AddClass.storyboard */; };
 		D4E61C25A56BD9F3420A8FA3 /* Pods_sced_app.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F8496BA02FAB52EA2F46E62 /* Pods_sced_app.framework */; };
->>>>>>> 77cdf298c7f4e56c7890c8a9164f556c130c1397
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		45EC8BEE20FD329C0078CF9E /* sced app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "sced app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		45EC8BF120FD329C0078CF9E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		45EC8BF320FD329C0078CF9E /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
-		45EC8BF520FD329C0078CF9E /* DataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataViewController.swift; sourceTree = "<group>"; };
+		45EC8BF520FD329C0078CF9E /* AddClassController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddClassController.swift; sourceTree = "<group>"; };
 		45EC8BF720FD329C0078CF9E /* ModelController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelController.swift; sourceTree = "<group>"; };
 		45EC8BFA20FD329C0078CF9E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		45EC8BFC20FD329E0078CF9E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		45EC8BFF20FD329E0078CF9E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		45EC8C0120FD329E0078CF9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-<<<<<<< HEAD
-=======
 		6F8496BA02FAB52EA2F46E62 /* Pods_sced_app.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_sced_app.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		84750D9820FD46740067C1E3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
-		84750D9C20FE6B000067C1E3 /* addclass.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = addclass.storyboard; sourceTree = "<group>"; };
+		84750D9C20FE6B000067C1E3 /* AddClass.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = AddClass.storyboard; sourceTree = "<group>"; };
 		985EAF12478C4C75F476C932 /* Pods-sced app.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-sced app.debug.xcconfig"; path = "Pods/Target Support Files/Pods-sced app/Pods-sced app.debug.xcconfig"; sourceTree = "<group>"; };
 		CB515C4B4A1DE50AFB616323 /* Pods-sced app.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-sced app.release.xcconfig"; path = "Pods/Target Support Files/Pods-sced app/Pods-sced app.release.xcconfig"; sourceTree = "<group>"; };
->>>>>>> 77cdf298c7f4e56c7890c8a9164f556c130c1397
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,10 +41,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-<<<<<<< HEAD
-=======
 				D4E61C25A56BD9F3420A8FA3 /* Pods_sced_app.framework in Frameworks */,
->>>>>>> 77cdf298c7f4e56c7890c8a9164f556c130c1397
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -62,11 +53,8 @@
 			children = (
 				45EC8BF020FD329C0078CF9E /* sced app */,
 				45EC8BEF20FD329C0078CF9E /* Products */,
-<<<<<<< HEAD
-=======
 				8EEF742EDB38532CF24E53F7 /* Pods */,
 				848C43975429C85CEF0DEC49 /* Frameworks */,
->>>>>>> 77cdf298c7f4e56c7890c8a9164f556c130c1397
 			);
 			sourceTree = "<group>";
 		};
@@ -81,43 +69,21 @@
 		45EC8BF020FD329C0078CF9E /* sced app */ = {
 			isa = PBXGroup;
 			children = (
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-				84750D9B20FE6AC20067C1E3 /* Storyboards */,
->>>>>>> 77cdf298c7f4e56c7890c8a9164f556c130c1397
->>>>>>> master
 				45EC8BF120FD329C0078CF9E /* AppDelegate.swift */,
 				84750D9B20FE6AC20067C1E3 /* Storyboards */,
 				84750D9E20FE9A640067C1E3 /* View Controllers */,
-				45EC8BF720FD329C0078CF9E /* ModelController.swift */,
-<<<<<<< HEAD
-				45EC8BF920FD329C0078CF9E /* Main.storyboard */,
 				45EC8BFC20FD329E0078CF9E /* Assets.xcassets */,
-				45EC8BFE20FD329E0078CF9E /* LaunchScreen.storyboard */,
-				45EC8C0120FD329E0078CF9E /* Info.plist */,
-=======
-				45EC8BFC20FD329E0078CF9E /* Assets.xcassets */,
-				45EC8BFE20FD329E0078CF9E /* LaunchScreen.storyboard */,
-<<<<<<< HEAD
 				84750D9F20FE9B040067C1E3 /* Supporting Files */,
-=======
-				45EC8C0120FD329E0078CF9E /* Info.plist */,
-				84750D9820FD46740067C1E3 /* GoogleService-Info.plist */,
->>>>>>> 77cdf298c7f4e56c7890c8a9164f556c130c1397
->>>>>>> master
 			);
 			path = "sced app";
 			sourceTree = "<group>";
 		};
-<<<<<<< HEAD
-=======
 		84750D9B20FE6AC20067C1E3 /* Storyboards */ = {
 			isa = PBXGroup;
 			children = (
 				45EC8BF920FD329C0078CF9E /* Main.storyboard */,
-				84750D9C20FE6B000067C1E3 /* addclass.storyboard */,
+				84750D9C20FE6B000067C1E3 /* AddClass.storyboard */,
+				45EC8BFE20FD329E0078CF9E /* LaunchScreen.storyboard */,
 			);
 			path = Storyboards;
 			sourceTree = "<group>";
@@ -126,7 +92,8 @@
 			isa = PBXGroup;
 			children = (
 				45EC8BF320FD329C0078CF9E /* RootViewController.swift */,
-				45EC8BF520FD329C0078CF9E /* DataViewController.swift */,
+				45EC8BF520FD329C0078CF9E /* AddClassController.swift */,
+				45EC8BF720FD329C0078CF9E /* ModelController.swift */,
 			);
 			path = "View Controllers";
 			sourceTree = "<group>";
@@ -157,7 +124,6 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
->>>>>>> 77cdf298c7f4e56c7890c8a9164f556c130c1397
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -165,18 +131,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 45EC8C0420FD329E0078CF9E /* Build configuration list for PBXNativeTarget "sced app" */;
 			buildPhases = (
-<<<<<<< HEAD
-				45EC8BEA20FD329C0078CF9E /* Sources */,
-				45EC8BEB20FD329C0078CF9E /* Frameworks */,
-				45EC8BEC20FD329C0078CF9E /* Resources */,
-=======
 				947A87A8BF160C588097AD44 /* [CP] Check Pods Manifest.lock */,
 				45EC8BEA20FD329C0078CF9E /* Sources */,
 				45EC8BEB20FD329C0078CF9E /* Frameworks */,
 				45EC8BEC20FD329C0078CF9E /* Resources */,
 				9560240EDCCB7D6E6C5A044A /* [CP] Embed Pods Frameworks */,
 				7C86F1F583914064C11E88C0 /* [CP] Copy Pods Resources */,
->>>>>>> 77cdf298c7f4e56c7890c8a9164f556c130c1397
 			);
 			buildRules = (
 			);
@@ -225,23 +185,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-<<<<<<< HEAD
-				45EC8C0020FD329E0078CF9E /* LaunchScreen.storyboard in Resources */,
-				45EC8BFD20FD329E0078CF9E /* Assets.xcassets in Resources */,
-=======
 				84750D9920FD46740067C1E3 /* GoogleService-Info.plist in Resources */,
 				45EC8C0020FD329E0078CF9E /* LaunchScreen.storyboard in Resources */,
 				45EC8BFD20FD329E0078CF9E /* Assets.xcassets in Resources */,
-				84750D9D20FE6B000067C1E3 /* addclass.storyboard in Resources */,
->>>>>>> 77cdf298c7f4e56c7890c8a9164f556c130c1397
+				84750D9D20FE6B000067C1E3 /* AddClass.storyboard in Resources */,
 				45EC8BFB20FD329C0078CF9E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
-<<<<<<< HEAD
-=======
 /* Begin PBXShellScriptBuildPhase section */
 		7C86F1F583914064C11E88C0 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -305,7 +258,6 @@
 		};
 /* End PBXShellScriptBuildPhase section */
 
->>>>>>> 77cdf298c7f4e56c7890c8a9164f556c130c1397
 /* Begin PBXSourcesBuildPhase section */
 		45EC8BEA20FD329C0078CF9E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -313,7 +265,7 @@
 			files = (
 				45EC8BF420FD329C0078CF9E /* RootViewController.swift in Sources */,
 				45EC8BF820FD329C0078CF9E /* ModelController.swift in Sources */,
-				45EC8BF620FD329C0078CF9E /* DataViewController.swift in Sources */,
+				45EC8BF620FD329C0078CF9E /* AddClassController.swift in Sources */,
 				45EC8BF220FD329C0078CF9E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -456,10 +408,7 @@
 		};
 		45EC8C0520FD329E0078CF9E /* Debug */ = {
 			isa = XCBuildConfiguration;
-<<<<<<< HEAD
-=======
 			baseConfigurationReference = 985EAF12478C4C75F476C932 /* Pods-sced app.debug.xcconfig */;
->>>>>>> 77cdf298c7f4e56c7890c8a9164f556c130c1397
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -477,10 +426,7 @@
 		};
 		45EC8C0620FD329E0078CF9E /* Release */ = {
 			isa = XCBuildConfiguration;
-<<<<<<< HEAD
-=======
 			baseConfigurationReference = CB515C4B4A1DE50AFB616323 /* Pods-sced app.release.xcconfig */;
->>>>>>> 77cdf298c7f4e56c7890c8a9164f556c130c1397
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
